@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Abel&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap");
+
+body {
+  background: linear-gradient(
+    rgb(163, 171, 245),
+    rgb(180, 216, 245)
+  );
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.jas {
+  font-family: "Abel";
+}
+
+.jas h1 {
+  font-family: "Roboto";
+}
+
+.jas a {
+  font-family: "Pacifico";
+}
+
+.today h4 {
+  font-family: "Roboto";
+}
